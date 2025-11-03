@@ -168,7 +168,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanRasheed91&show_icons=true&theme=radical&locale=en&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanRasheed91&show_icons=true&theme=radical&locale=en&layout=compact&hide=Jupyter%20Notebook&langs_count=8" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api?username=HassanRasheed91&show_icons=true&theme=radical&count_private=true" height="165"/>
 </p>
 
