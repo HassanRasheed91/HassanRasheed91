@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Hassan Rasheed</h1>
-<p align="center"><b>AI/ML Engineer • Deep Learning • Computer Vision • MLOps</b></p>
+<p align="center"><b>AI/ML Engineer • Deep Learning • Computer Vision </b></p>
 
 <!-- ========================= -->
 <!--       PORTFOLIO BTN      -->
@@ -88,6 +88,17 @@
 
 <table>
 <tr>
+
+<td width="33%">
+
+**📊 Machine Learning**
+- Ensemble Methods
+- Time-Series Analysis
+- Feature Engineering
+- Predictive Maintenance
+- MLOps Pipelines
+
+</td>
 <td width="33%">
   
 **🧠 Deep Learning**
@@ -110,14 +121,6 @@
 </td>
 <td width="33%">
 
-**📊 ML & Analytics**
-- Ensemble Methods
-- Time-Series Analysis
-- Feature Engineering
-- Predictive Maintenance
-- MLOps Pipelines
-
-</td>
 </tr>
 </table>
 
@@ -130,7 +133,13 @@
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,docker,git,mysql,mongodb,linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,docker,git,mysql,mongodb" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=r,cpp,java,js,linux" />
 </p>
 
 <details>
@@ -159,12 +168,12 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanRasheed91&show_icons=true&theme=dark&locale=en&layout=compact" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanRasheed91&show_icons=true&theme=dark&hide=stars,issues" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanRasheed91&show_icons=true&theme=radical&locale=en&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanRasheed91&show_icons=true&theme=radical&count_private=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HassanRasheed91&theme=dark&border_radius=5" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HassanRasheed91&theme=radical&border_radius=5" height="165"/>
 </p>
 
 <br>
@@ -199,17 +208,17 @@
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hassan-rasheed-datascience/">
+  <a href="https://www.linkedin.com/in/hassan-rasheed-datascience/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:221980038@gift.edu.pk">
+  <a href="mailto:221980038@gift.edu.pk" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/HassanRasheed91">
+  <a href="https://github.com/HassanRasheed91" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+923484872060">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/923484872060" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
